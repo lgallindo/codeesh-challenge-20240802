@@ -1,5 +1,14 @@
 # DBA Challenge 20240802
 
+This is a challenge by [Coodesh](https://coodesh.com/)
+
+Consultas:
+
+[1. Listar todos Clientes que não tenham realizado uma compra;](1.sql)
+[2. Listar os Produtos que não tenham sido comprados](2.sql)
+[3. Listar os Produtos sem Estoque;](3.sql)
+[4. Agrupar a quantidade de vendas que uma determinada Marca por Loja;](4.sql)
+[5. Listar os Funcionarios que não estejam relacionados a um Pedido.](5.sql)
 
 ## Introdução
 
